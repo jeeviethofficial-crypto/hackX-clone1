@@ -1,0 +1,21 @@
+{
+  "name": "hackx-clone",
+  "version": "1.0.0",
+  "description": "Full clone of hackX 11.0 (https://hackx.lk) - Sri Lanka's Premier Inter-University Startup Challenge",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -s . -l 3000",
+    "dev": "python3 -m http.server 3000",
+    "serve": "npx serve -s . -l 3000"
+  },
+  "keywords": [
+    "hackx",
+    "hackathon",
+    "startup-challenge",
+    "kelaniya",
+    "nextjs",
+    "clone"
+  ],
+  "author": "",
+  "license": "ISC"
+}
